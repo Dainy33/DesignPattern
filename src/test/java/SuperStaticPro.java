@@ -1,6 +1,6 @@
 import org.junit.Test;
 
-public class Ex {
+public class SuperStaticPro {
 
     @Test
     public void eex() {

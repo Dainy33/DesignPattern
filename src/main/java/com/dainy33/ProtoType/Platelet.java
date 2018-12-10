@@ -1,6 +1,8 @@
 package com.dainy33.ProtoType;
 
-public class Platelet implements Cloneable{
+import java.io.Serializable;
+
+public class Platelet implements Cloneable, Serializable {
     private int life;
     private String type;
 

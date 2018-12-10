@@ -3,6 +3,7 @@ import org.junit.Test;
 
 public class Copy {
 
+    //值类型引用类型=
     @Test
     public void intCopy() {
         int a = 5;
