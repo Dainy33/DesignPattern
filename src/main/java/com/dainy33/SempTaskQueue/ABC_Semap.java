@@ -64,6 +64,8 @@ public class ABC_Semap {
         Thread B = new ThreadB();
         Thread C = new ThreadC();
 
+        System.out.println(A.hashCode());
+
         A.start();
         B.start();
         C.start();
